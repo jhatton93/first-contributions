@@ -26,6 +26,7 @@
 - [ATK](https://github.com/aungthinnko)
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
 - [Joel Aviles](https://github.com/Appithe)
+- [Jessica Hatton] (https://github.com/jhatton93)
 - [Billy Magarali](https://github.com/BillyMagarali)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 - [Matthew Daly](https://github.com/MattyDaly)
